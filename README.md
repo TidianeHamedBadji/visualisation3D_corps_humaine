@@ -75,4 +75,3 @@ Cette application présente une visualisation 3D interactive du corps humain com
 ### Interactivité
 - ✅ Rotation libre de la caméra
 - ✅ Zoom fluide (molette)
-- ✅ Sélection d'éléments (c
